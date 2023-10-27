@@ -10,7 +10,7 @@
     "e2e": "ng e2e"
   },
   "engines": {
-  "node": "14.x"
+  "node": "18.16.1"
   },
   "private": true,
   "dependencies": {
